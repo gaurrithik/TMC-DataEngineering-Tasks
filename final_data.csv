@@ -1,0 +1,153 @@
+row,name,birth_year,address,city,state,zip,SOS_VOTERID
+1,Michelle Tate,1985.0,907 Richie Ave,Lima,OH,45805.0,OH0023782977
+3,Aimee Wilson,1983.0,234 Ty Drive,Peebles,OH,45660.0,OH0016294542
+4,E Farmer,1969.0,185 N Main Street,Peebles,OH,45660.0,OH0023511254
+5,Juanita J Dettwiller,1959.0,20984 Sr 41,Peebles,OH,45660.0,OH0016303322
+6,D W Rutherford,,760 Mineral Springs Rd,Peebles,OH,45660.0,OH0016297514
+7,Joseph Devore,,555 Marble Furnace Rd,Peebles,OH,45660.0,OH0016297106
+10,Jeremy T Patterson,1975.0,2594 Pine Shore Dr,Lima,OH,45806.0,OH0016358039
+11,Steve Stepp,1951.0,13370 Sr 136,Winchester,OH,45697.0,OH0016297523
+16,Elizabeth Sparrow,1950.0,233 Ridge Crest Cir,Lima,OH,45801.0,OH0016367427
+17,Kathryn E Ulrich,,5265 N Defiance Trl,Delphos,OH,45833.0,OH0016378744
+18,William Diehl,1947.0,3090 Ft Amanda Rd,Lima,OH,45805.0,OH0024405341
+21,Thomas Goergens,,2112 N St Marys Road,Delphos,OH,45833.0,OH0016383244
+22,Charles R Morris,,781 Bailey Rd,Peebles,OH,45660.0,OH0016290306
+24,Garrett E Stevenson,1992.0,,,,,OH0023733368
+25,Robert Brown,1994.0,4910 Lawshe Rd,Peebles,OH,45660.0,OH0022906136
+26,Wilma J Kahle,,9410 Ottawa Rd,Columbus Grove,OH,45830.0,OH0023917094
+30,C Slusher,1994.0,734 Fairview Ave,Lima,OH,45804.0,OH0021714572
+33,Heath Moore,,21977 Sr 125,Blue Creek,OH,45616.0,OH0016292750
+35,Pamela Walsh,1962.0,122 Mcarthur Street,West Union,OH,45693.0,OH0016297291
+38,Mary L Early,,3426 Cremean Road,Elida,OH,45807.0,OH0016395538
+39,Michael R Hanjora,,14055 Allentown Rd,Spencerville,OH,45887.0,OH0016402594
+41,Sandra L Grooms,1959.0,135 Columbia Street,Seaman,OH,45679.0,OH0016298270
+42,Bryan Blevins,,155 Charity Drive,West Union,OH,45693.0,OH0021595942
+44,Robert Stechschulte,1980.0,462 Riverbend Drive,Bluffton,OH,45817.0,OH0020041064
+45,Katelyn G Sandlin,2000.0,27 E Eighth Street,Manchester,OH,45144.0,OH0024675468
+46,Abeni N White,2000.0,826 Mackenzie Drive,Lima,OH,45805.0,OH0024986490
+47,Brittney Claypool,,3060 Southworth Rd,Delphos,OH,45833.0,OH0023713533
+48,Sheena Young,1982.0,,,,,OH0019409447
+50,Haley Rode,2000.0,1320 Joshua St,Delphos,OH,45833.0,OH0024499387
+51,Audrey Case,1957.0,1545 Jones Road,Peebles,OH,45660.0,OH0016295778
+53,Brittany Hill,1988.0,632 Rice Drive,West Union,OH,45693.0,OH0019254267
+55,Gregory P Hartzler,1976.0,435 E College Ave,Bluffton,OH,45817.0,OH0019408768
+56,Brooke A Tolle,1993.0,65 Jeridan,West Union,OH,45693.0,OH0021877739
+57,Donna M Stilt,1965.0,230 Spruce Ln,West Union,OH,45693.0,OH0022305016
+63,S Torres,,18126 Sr 247,Seaman,OH,45679.0,OH0016289505
+64,Mark Kendall,,7494 Eckmansville Road,Winchester,OH,45697.0,OH0016293119
+65,C Plaugher,1983.0,1713 Lancewood Pl,Lima,OH,45805.0,OH0020797523
+66,B A Deskins,1939.0,18888 Sr 41,West Union,OH,45693.0,OH0022984839
+67,A Carrier,,9474 Sr 247,West Union,OH,45693.0,OH0023096240
+68,Ryan M Butterfield,1981.0,5370 Harding Hwy,Lima,OH,45804.0,OH0016384254
+72,Coleman Clark,1952.0,609 S Wapak Road,Elida,OH,45807.0,OH0016392419
+73,Amanda Craig,1986.0,5224 Norfolk Street,Lima,OH,45806.0,OH0019415510
+75,Donna J Stout,,630 Stout Road,Winchester,OH,45697.0,OH0016304548
+78,Brittney Smith,,900 Cemetery Ave,Manchester,OH,45144.0,OH0016305716
+81,Edith Whitley,1952.0,,,,,OH0018631976
+82,Rita Blake,,3009 Fawcett Rd,Peebles,OH,45660.0,OH0016293624
+83,Timothy L Jodrey,,22050 Sr 136,Winchester,OH,45697.0,OH0016302159
+85,Lisa Ellis,1964.0,7640 N Wapak Road,Elida,OH,45807.0,OH0016391294
+86,Phyllis A Reichenbach,,9988 N Dixie Hwy,Bluffton,OH,45817.0,OH0016413735
+91,Keith Conley,1974.0,124 Curt Road,Seaman,OH,45679.0,OH0019084773
+92,Sherri Manfredi,,73 Walnut St,Peebles,OH,45660.0,OH0016291349
+96,Blanton,,73 Central Ave,Peebles,OH,45660.0,OH0019525682
+97,Andrew M Hyatt,,756 Shaker Run Rd,Peebles,OH,45660.0,OH0023304543
+98,K E Sheeley,,7672 Sr 125,West Union,OH,45693.0,OH0021224890
+99,J A Wright,,3897 Neely Rd,Elida,OH,45807.0,OH0016363122
+100,Scott A Parr,1970.0,1821 Diller Rd,Elida,OH,45807.0,OH0016398281
+101,Robert W Scott,1957.0,1000 Eagle Creek Rd,West Union,OH,45693.0,OH0016289816
+103,J A Zink,,4706 Amaryllis Street,Elida,OH,45807.0,OH0016378202
+104,Teresa Raines,1961.0,2356 Fairview Rd,Seaman,OH,45679.0,OH0016293597
+105,Kristi Copas,,2737 Calvary Rd,Seaman,OH,45679.0,OH0016291542
+110,Mark A Carrington,1960.0,2424 Tater Ridge Rd,West Union,OH,45693.0,OH0016306865
+112,Tierra Holland,1990.0,1019 W Wayne St,Lima,OH,45805.0,OH0019957980
+114,Steven R Morgan,1971.0,2235 Sr 41,Manchester,OH,45144.0,OH0023339673
+115,Christopher M Kleman,1998.0,1669 E Lincoln Hwy,Elida,OH,45807.0,OH0025035614
+116,John F Reel,1966.0,700 Wheat Ridge Rd,West Union,OH,45693.0,OH0016297060
+119,Mark Russell,1957.0,331 Sr 73,Peebles,OH,45660.0,OH0021495741
+121,Glenn Waters,1941.0,5552 Louisville Rd,Peebles,OH,45660.0,OH0016304092
+122,A L Upshaw,,650 S Dana Ave,Lima,OH,45804.0,OH0016350493
+123,Brian Brandt,1965.0,230 S Collett St,Lima,OH,45805.0,OH0023066755
+126,Virgil Lynch,,56 Graces Run Road,Winchester,OH,45697.0,OH0016294682
+127,Jill C Williams,1960.0,1184 S Union Street,Lima,OH,45804.0,OH0021897896
+128,Trenton M Price,,10340 Sr 136,West Union,OH,45693.0,OH0023202729
+129,Jennifer L Jones,1984.0,210 Cemetery Ave,Manchester,OH,45144.0,OH0021551508
+131,Starlit Weisner,,19744 Us 52,Stout,OH,45684.0,OH0024337369
+137,Robert E Kimbrough,1966.0,1214 Lakewood Ave,Lima,OH,45805.0,OH0022855646
+138,Marilyn Mcpheron,,4812 Willow St,Elida,OH,45807.0,OH0016413215
+140,Tasha Risner,1996.0,638 Cedar Hill Drive,Blue Creek,OH,45616.0,OH0023152592
+141,Roberta C Higgins,,620 S Elizabeth Street,Lima,OH,45804.0,OH0016359698
+144,Randall D Williams,1957.0,1743 N Eastown Road,Elida,OH,45807.0,OH0016368855
+145,Audrey Basford,1978.0,,,,,OH0016291395
+146,S M Jacobs,,326 Baxter St,Elida,OH,45807.0,OH0016358772
+152,Kelly Moyer,,4900 Hummingbird Street,Elida,OH,45807.0,OH0016363725
+162,Aimee Fleck,,2240 Kunneke Ave,Lima,OH,45805.0,OH0016399968
+164,G F Avery,1954.0,1562 Northbrook Drive,Lima,OH,45805.0,OH0021638566
+171,Margaret E Brinkman,1949.0,2001 Lyn Grove Dr,Lima,OH,45806.0,OH0016392449
+172,Belva A Hart,1950.0,56 W Cross Street,Winchester,OH,45697.0,OH0021864911
+173,Therena D Hooks,1959.0,718 E Elm Street,Lima,OH,45804.0,OH0020224696
+174,Robert Sherard,,524 Columbia Dr,Lima,OH,45805.0,OH0016358397
+175,C L Brownlow,,1157 Bay Cir,Lima,OH,45801.0,OH0020217689
+181,K W Anderson,1983.0,626 Country View Cir,Lima,OH,45801.0,OH0024124564
+186,Bobby Miller,1948.0,6996 Mineral Springs Rd,Peebles,OH,45660.0,OH0016297534
+187,N Cornell,1944.0,1655 Pro Dr,Lima,OH,45805.0,OH0016355232
+189,Erik R Lehmkuhle,,2955 S Conant Rd,Spencerville,OH,45887.0,OH0021289152
+191,Cynthia J Diller Mueller,,165 W Kibler St,Bluffton,OH,45817.0,OH0023730429
+195,Collin Hensley,,113 E Kibler St,Bluffton,OH,45817.0,OH0025025736
+198,M Carter,1946.0,626 Yates Road,Manchester,OH,45144.0,OH0016307194
+199,Harold Nichols,1936.0,1590 Jacksonville Road,Peebles,OH,45660.0,OH0016295596
+201,Christy D Drake,,165 Pond Lick Road,Seaman,OH,45679.0,OH0020980592
+203,Stanton Sanders,,531 E Vine Street,Lima,OH,45804.0,OH0023401549
+206,Mary A Mckinney,,1199 S Kemp Road,Lima,OH,45806.0,OH0016415187
+209,Courtney R Campbell,,986 Steam Furnace Rd,Peebles,OH,45660.0,OH0016341370
+212,Ronnie J Thompson,,217 Mcarthur St,West Union,OH,45693.0,OH0016297281
+214,Isaac Griffith,,179 Wendell Ave,Peebles,OH,45660.0,OH0022861718
+215,Taylor Gutierrez,,6000 Harding Hwy,Lima,OH,45801.0,OH0025944403
+216,Christopher Upshaw,,650 S Dana Ave,Lima,OH,45804.0,OH0021110524
+217,Jquan Aiken Wright,,728 N Elizabeth St,Lima,OH,45801.0,OH0024623822
+219,Rowe,1950.0,1311-1/2 W Spring St,Lima,OH,45805.0,OH0016354039
+222,Mikei A Martin,1973.0,290 Paul Copas Road,Winchester,OH,45697.0,OH0016296788
+224,David Fox,,4609 Kerr Road,Lima,OH,45806.0,OH0016376201
+226,Tad Mitchell,,1369 Bentonville Road,West Union,OH,45693.0,OH0016295552
+227,Juanita Smart,1926.0,10500 Sr 770,Peebles,OH,45660.0,OH0016303919
+230,Diane Burton,1947.0,4920 S Dixie Hwy,Lima,OH,45806.0,OH0016404581
+233,Jordan Crowder,,637 E 5Th St,Lima,OH,45804.0,OH0020430165
+236,Barbara A Peikutowski,1943.0,1187 Nace Corner Road,Latham,OH,45646.0,OH0016297907
+238,Martie Cruea,,3025 Wheat Ridge Rd,West Union,OH,45693.0,OH0022844652
+239,Heather G Keith,,2650 W Market Street,Lima,OH,45805.0,OH0026284144
+240,Arthur Thompson,1947.0,1210 S Union St,Lima,OH,45804.0,OH0021295721
+241,Charlene R Simpson,1961.0,736 N Metcalf Street,Lima,OH,45801.0,OH0016368971
+242,Seth Blankenship,1977.0,3179 Clayton Pike,Manchester,OH,45144.0,OH0016301111
+243,Jean Sadler,,4244 Schooler Road,Lima,OH,45806.0,OH0016400788
+247,Myles Linn,,719 Oak St,Lima,OH,45804.0,OH0021402025
+249,Seth Sheriff,1997.0,,,,,OH0023401060
+253,Brett A Mosier,1971.0,1203 N Main Street,Delphos,OH,45833.0,OH0021088558
+255,Stephanie K Ruvoldt,,708 Lewis Blvd,Lima,OH,45801.0,OH0021564960
+258,Amanda M Jackson,1979.0,1458 Jee Rd,Winchester,OH,45697.0,OH0024163230
+262,James Jones,1996.0,720-B Pond Lick Road,Seaman,OH,45679.0,OH0016299236
+263,Angela Swinehart,1970.0,4005 Bowdle Rd,Harrod,OH,45850.0,OH0016392151
+267,Danielle C Sampson,1967.0,,,,,OH0016371035
+268,Jocelyn D Wilson,1956.0,222 S Pierce St,Lima,OH,45801.0,OH0016368427
+270,Sheila R Custer,1947.0,5276 Sharlene Drive,Elida,OH,45807.0,OH0016389968
+270,Sheila R Custer,1947.0,5276 Sharlene Drive,Elida,OH,45807.0,OH0016379309
+271,Leslie M Francis,1979.0,209 W Second St,Manchester,OH,45144.0,OH0016293775
+274,Kaitlin Duff,,4114 Allentown Road,Elida,OH,45807.0,OH0024565155
+275,Brandie Plaugher,,655 Cortlandt Ave,Lima,OH,45801.0,OH0020846693
+276,Andrew M Freed,1992.0,1670 Robin Hood Dr,Lima,OH,45805.0,OH0016351927
+277,Amy Rhoden,,1845 Inlow Ave,Peebles,OH,45660.0,OH0023371423
+278,Todd Martin,,252 Spencer Hill Road,West Union,OH,45693.0,OH0020237346
+279,Cameron Cary,1962.0,,,,,OH0016374218
+282,Susan Patterson,,104 Henry Street,Elida,OH,45807.0,OH0016365975
+282,Susan Patterson,,104 Henry Street,Elida,OH,45807.0,OH0016397982
+284,Courtney T Pettigrew,,2750 Sherwood Dr,Lima,OH,45805.0,OH0024887727
+286,Diane E Coffey,1956.0,1695 Jo Jean Rd,Lima,OH,45806.0,OH0016391958
+287,Jean Hines,,1755 Shawnee Road,Lima,OH,45805.0,OH0016381147
+287,Jean Hines,,1755 Shawnee Road,Lima,OH,45805.0,OH0016388064
+289,Denver Farley,1955.0,1117 Old Sr 32,Peebles,OH,45660.0,OH0022401392
+290,Rebecca L Mangus,1988.0,860 Beasley Fork Rd,West Union,OH,45693.0,OH0018896542
+292,Austin D Lewis,1998.0,606 Ward Road,Peebles,OH,45660.0,OH0024163262
+293,Mary Justice,1934.0,39 Roslin Drive,Peebles,OH,45660.0,OH0016300272
+294,Debora Roby,,2065 University Blvd,Lima,OH,45805.0,OH0016395549
+295,Jordan R Montgomery,,1368 Mccoy Rd,Peebles,OH,45660.0,OH0019577160
+296,James E Johnson,1969.0,310 Rice Drive,West Union,OH,45693.0,OH0022883569
+298,Lisa A Thompson,,510 Martin Run Road,Winchester,OH,45697.0,OH0016297183
